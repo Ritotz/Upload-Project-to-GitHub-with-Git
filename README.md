@@ -100,9 +100,9 @@ $ git commit -m"Name commit" $
 ```
 
 - Push the project to Github
-  
-> git push origin master
-
+```  
+git push origin master
+```
 <div align="center">
   <img src="images/image-6.png" alt="Description" width="1000" width="400">
 </div
