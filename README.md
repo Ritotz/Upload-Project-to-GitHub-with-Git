@@ -1,6 +1,6 @@
-# How to upload github repository with git base
+# How to upload github repository with git bash
 
-## Uploading a Github repository using Git (command-line-base) straightforward. Here's a step-by-step guide:    
+## Uploading a Github repository using Git (command-line-bash) straightforward. Here's a step-by-step guide:    
 
 ### 1. Install Git
 
@@ -30,7 +30,7 @@
 
 ##
 
-### 3. Git base config gobal
+### 3. Git bash config gobal
 
 <div align="center">
   <img src="images/image-3.png" alt="Description" width="1000" hidth="400">
@@ -40,7 +40,7 @@
 
 ### 4 . Upload project to github
 
-#### 1. Connect git base
+#### 1. Connect git bash
 
 - You can specify Git configuartion settings with the git config command. One of the first things you did was set up your name and email addres:
 - Replace with your Email and Github account
@@ -56,7 +56,7 @@ $ git config --list $
 
 #### 2. Upload project to github
 
-##### Step 1: At the local file choose Open Git Base here
+##### Step 1: At the local file choose Open Git Bash here
 
 <div align="center">
   <img src="images/image-4.png" alt="Description" width="1000" hidth="400">
